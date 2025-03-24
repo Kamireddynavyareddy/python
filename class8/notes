@@ -1,0 +1,22 @@
+create----
+e1=[]
+eids=[101,102,103]
+
+
+
+
+
+
+read------
+
+
+
+
+
+
+
+
+
+update-----
+e1.append("rahul")
+##apprend( )
